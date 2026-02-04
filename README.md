@@ -1,4 +1,4 @@
-# University API - Justice osei sarfo
+# University API - Asante Kojo Boakye
 
 Level 1 done: GET all and GET by id for students, courses and instructors.
 
